@@ -16,6 +16,15 @@ I’m passionate about exploring new technologies, reading, and writing code.
   
 ---
 
+### 🚀 Projects I’m Currently Working On
+
+- 📦 **[mcpjungle](https://github.com/mcpjungle/)** – MCPJungle is a single source-of-truth registry for all Model Context Protocol Servers running in your Organisation.
+- ⚡ **[go-calque](https://github.com/ankittk/go-calque)** – An idiomatic streaming multi-agent AI framework for Go.
+- 🛠️ **[kmcp](https://github.com/ankittk/kmcp)** – CLI tool and Kubernetes Controller for building, testing and deploying with the help of kagent.
+
+---
+
+
 ### 📊 My GitHub Contributions  
 
 - 🔥 **Active Repositories**: [![Repos](https://badges.pufler.dev/repos/ankittk)](https://github.com/ankittk?tab=repositories)  
@@ -33,14 +42,5 @@ I’m passionate about exploring new technologies, reading, and writing code.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankittk&theme=tokyonight)  
 
 ---
-
-### 🚀 Featured Projects  
-Here are some of the projects I’ve been working on:  
-
-- 📦 **[mcpjungle](https://github.com/mcpjungle/)** – MCPJungle is a single source-of-truth registry for all Model Context Protocol Servers running in your Organisation.
-- ⚡ **[go-calque](https://github.com/ankittk/go-calque)** – An idiomatic streaming multi-agent AI framework for Go.
-- 🛠️ **[kmcp](https://github.com/ankittk/kmcp)** – CLI tool and Kubernetes Controller for building, testing and deploying with the help of kagent.
-
----
-
 ✨ _“Always learning. Always building. Always sharing.”_  
+---
