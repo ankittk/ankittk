@@ -1,3 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=ankittk&color=blue)
+
+--- 
 # Hi there 👋  
 
 This is the place where I **open source stuff** and sometimes **break things 🤣**.  
