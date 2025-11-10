@@ -10,6 +10,7 @@ I’m passionate about exploring new technologies, reading, and writing code.
 
 ### 👨‍💻 About Me  
 - 😄 Pronouns: **He/Him**  
+- 💻 Work: Currently working at Studocu as a Senior Platform Engineer. 
 - 🌱 Learning: **Data Structures & Algorithms, Golang, Python, http, gRPC, Kubernetes, Machine Learning, MLOps, DevOps**  
 - 👯 Looking to collaborate on **open-source projects** that help me learn and grow  
 - 🤔 Exploring **scalable & reliable system design**  
