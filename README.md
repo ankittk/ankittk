@@ -1,29 +1,18 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ankittk&color=blue)
 
-# Hi there 👋
+# Hi there 👋 I'm Ankit
 
-Welcome to the place where I **open-source things** and occasionally **break them 🤣**.  
-I’m passionate about exploring new technologies, reading, and building scalable, reliable systems.
+**Senior Platform Engineer** • **Open Source Contributor** • **Systems Thinker**
 
----
-
-## 👨‍💻 About Me
-
-- 😄 **Pronouns**: He/Him  
-- 💻 **Work**: Senior Platform Engineer at **Studocu**  
-- 🌱 **Currently learning**:  
-  **Data Structures & Algorithms, Golang, Python, HTTP, gRPC, Kubernetes, Machine Learning, MLOps, DevOps**
-- 👯 **Open to collaborating** on open-source projects that help me learn and grow  
-- 🤔 **Interested in** scalable & reliable system design  
-- 💬 **Happy to chat** about tech, open source, or career advice  
-- 📫 **Reach me on** [LinkedIn](https://www.linkedin.com/in/ankittkin/)
+I build **scalable platforms**, contribute through **high-impact pull requests**,  
+and enjoy turning complex problems into **reliable systems**.
 
 ---
 
-## 🚀 Projects I’m Currently Working On
+## 🚀 What I’m Building
 
 - 📦 **[mcpjungle](https://github.com/mcpjungle/)**  
-  A single source-of-truth registry for all **Model Context Protocol (MCP) servers** running in your organization.
+  A single source-of-truth registry for **Model Context Protocol (MCP) servers** in an organization.
 
 - ⚡ **[go-calque](https://github.com/ankittk/go-calque)**  
   An idiomatic, streaming **multi-agent AI framework for Go**.
@@ -37,17 +26,25 @@ I’m passionate about exploring new technologies, reading, and building scalabl
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankittk&theme=tokyonight)
 
+> I contribute primarily through **pull requests, reviews, and design discussions**,  
+> focusing on long-term maintainability and system reliability.
+
+## 👨‍💻 About Me
+
+- 😄 **Pronouns**: He/Him  
+- 💻 **Role**: Senior Platform Engineer at **Studocu**  
+- 🌱 **Currently learning**:  
+  **DSA, Golang, Python, HTTP, gRPC, Kubernetes, ML, MLOps, DevOps**
+- 🤔 **Interested in**: scalable & reliable system design  
+- 👯 **Open to**: meaningful open-source collaboration  
+- 💬 **Happy to chat about**: tech, OSS, and career growth  
+- 📫 **Reach me on**: [LinkedIn](https://www.linkedin.com/in/ankittkin/)
+
 ---
 
-### 🔁 Contribution Philosophy
+## 🛠️ Tech Focus
 
-- 🔀 Actively opening, reviewing, and maintaining pull requests  
-- 🧠 Focused on **code quality, maintainability, and reliability**  
-- 🧩 Contributions across **Go, Kubernetes, Platform Engineering, and AI tooling**  
-- 🤝 Believe in learning through collaboration and community feedback  
-
-> I contribute through PRs, reviews, and discussions —  
-> helping projects scale while continuously improving my own engineering craft.
+![Tech Stack](https://skillicons.dev/icons?i=go,python,kubernetes,docker,gcp,linux,git)
 
 ---
 
@@ -59,10 +56,26 @@ I’m passionate about exploring new technologies, reading, and building scalabl
 
 ---
 
+## 📊 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankittk&theme=tokyo-night&hide_border=true)
+
+---
+
 ## 🏆 GitHub Achievements
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ankittk&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
 
-✨ _“Always learning. Always building. Always sharing.”_
+## 🐍 Contribution Graph
+
+![Contribution Snake](https://github.com/ankittk/ankittk/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ✨ Engineering Philosophy
+
+> _“Build systems that scale, code that lasts, and communities that grow.”_
+
+Always learning. Always building. Always sharing.
